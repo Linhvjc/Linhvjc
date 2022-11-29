@@ -8,19 +8,13 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&show_icons=true&hide_border=true&include_all_commits=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="./coding_2.gif"/></td>
 </tr>
 <table>
-<!-- <tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="./coding_2.gif"/></td>
-</tr> -->
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Linhvjc&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
