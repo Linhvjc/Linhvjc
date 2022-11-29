@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="./coding.gif"/></td>
 </tr>
