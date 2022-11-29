@@ -8,7 +8,7 @@
 <tr>
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-    <img width="48% + 2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    <img width="48% + 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhvjc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
   </td>
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
 </tr>
