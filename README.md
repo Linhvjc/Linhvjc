@@ -3,8 +3,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam University in Da Nang. I am interested in the following topics: Machine Learning, Deep Learning, NLP, and Computer Vision.<br>
 ## 📫 How to reach me:
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dieuha11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linh11___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linh11) 
 [![Viblo](https://img.shields.io/badge/-Viblo-5387c6?style=flat&labelColor=5387c6)](https://viblo.asia/u/LinhPhanNhat)
 
