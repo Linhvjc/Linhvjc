@@ -29,6 +29,16 @@ My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam Unive
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=Corgiman&theme=merko" />
 </a>
+  
+<a href="https://github.com/Linhvjc/toxic_comment">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=toxic_comment&theme=merko" />
+</a>    
+  
+<a href="https://github.com/Linhvjc/google_translate">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=google_translate&theme=gruvbox"/>
+</a>
 
  <a href="https://github.com/Linhvjc/basic-AI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
