@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Linhvjc&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam University in Da Nang. I am interested in the following topics: Machine Learning, Deep Learning, NLP, and Computer Vision.<br>
+My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam University in Da Nang. I am interested in the following topic: Natural Language Processing.<br>
 ## 📫 How to reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dieuha11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linh11___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linh11) 
 [![Viblo](https://img.shields.io/badge/-Viblo-5387c6?style=flat&labelColor=5387c6)](https://viblo.asia/u/LinhPhanNhat)
@@ -21,7 +21,7 @@ My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam Unive
 
   
 # GitHub Repository:
-<a href="https://github.com/Linhvjc/vibo">
+<a href="https://github.com/Linhvjc/gpt4free">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=vibo&theme=radical" />
 </a>    
