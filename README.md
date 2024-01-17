@@ -23,7 +23,7 @@ My name is Phan Nhat Linh and I am currently studying at Greenwich Vietnam Unive
 # GitHub Repository:
 <a href="https://github.com/Linhvjc/gpt4free">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=vibo&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linhvjc&repo=gpt4free&theme=radical" />
 </a>    
 <a href="https://github.com/Linhvjc/Corgiman">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
